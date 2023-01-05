@@ -1,0 +1,9 @@
+name: lcc_emulator
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - matplotlib
+  - numpy
+  - xarray
+  - netcdf4
