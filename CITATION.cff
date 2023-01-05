@@ -1,0 +1,20 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Haenchen"
+  given-names: "Lorenz"
+  orcid: "https://orcid.org/0000-0002-8507-6543"
+- family-names: "Quesada"
+  given-names: "Benjamin"
+  orcid: "https://orcid.org/0000-0002-8827-4801"
+ - family-names: "Arneth"
+  given-names: "Almut"
+  orcid: "https://orcid.org/0000-0001-6616-0822"
+title: "Supplementary Jupyter Notebook to Non-radiative effects dominate the local surface temperature response to land-cover change - insights from a semi-empirical model"
+version: 1.0.0
+doi: 10.5281/zenodo.7506358
+date-released: 2023-01-05
+url: "https://github.com/lohae/LCC_Ts_Emulato"
+
+
+            
